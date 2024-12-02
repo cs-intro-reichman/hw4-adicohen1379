@@ -30,7 +30,7 @@ public class Primes {
             }
             i++;
         }
-        for(int k=0;k<n;k++)
+        for(int k=0;k<=n;k++)
         {
             if(prime[k]==true)
             {
