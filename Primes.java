@@ -11,7 +11,7 @@ public class Primes {
         int counter=0;//סופר כמה מספרים לא ראשוניים יש
         int i=2;
         //int p=0;
-        System.out.println("Prime numbers up to "+n);
+        System.out.println("Prime numbers up to :"+n);
         while(i<=n)
         {
             int j=2;
